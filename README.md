@@ -3,6 +3,44 @@ Checking if a given email-id is valid or not using python
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 email = input("Enter email-id : ")
 flag1=0
 flag2=0
